@@ -1,0 +1,22 @@
+
+h1 {color:blue; font-size:55px; font-family: "Times New Roman", Times, serif;}
+
+h3 {color:green; font-size:35px;}
+
+body {background-color: #7FFFD4; font-size:18px;}
+
+#Name {border-style: outset; text-align: center;}
+
+.centerimg {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+
+.button {background-color: #4CAF50; /* Green */
+  border: outset;
+  color: white;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;}
